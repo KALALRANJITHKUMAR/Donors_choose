@@ -1,2 +1,2 @@
 # Donors_choose
-Hyper_parameter_tuning for all important algorithms
+Hyper parameter tuning for all important algorithms
